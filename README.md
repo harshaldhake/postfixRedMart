@@ -1,4 +1,11 @@
-# HdXlsQuiz
+# redMartQuiz
+
+Process to Start:
+
+1) Install Angular Cli  -> npm i -g @angular-cli
+2) clone the repository
+2) go to directory and use npm install
+3) use npm serve
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.3.
 
